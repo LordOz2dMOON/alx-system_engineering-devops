@@ -1,1 +1,2 @@
-The 0-current working directory script prints the absolute path of the current working directory \n
+The 0-current working directory script prints the absolute path of the current working directory.
+The list it script list all the files in the current working directory
