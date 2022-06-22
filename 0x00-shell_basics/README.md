@@ -3,3 +3,4 @@ The list it script list all the files in the current working directory
 The bring me home script changes the working directory to the users home directory
 The listfiles script displays current directory contents in long format
 The listmorefiles script displays all directory content including hidden files
+The listfilesdigitonly script displays all current directory contents with user and group ids displayed numerically
