@@ -10,3 +10,4 @@ The firstdelete script deletes the file betty in myfirst directory
 The firstdirdeletion script deletes myfirstdirectory in tmp
 The back script changed the present working directory to the former one
 The lists script list all files in the current, parent and boot directories
+The filetype script shows the type of file for iamafile in the tmp directory
