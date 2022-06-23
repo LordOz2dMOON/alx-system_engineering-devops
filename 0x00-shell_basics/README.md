@@ -7,3 +7,4 @@ The listfilesdigitonly script displays all current directory contents with user 
 The firstdirectory script creates a new directory in the tmp directory
 The movethatfile script moves betty file from tmp directory to my first directory directory
 The firstdelete script deletes the file betty in myfirst directory
+The firstdirdeletion script deletes myfirstdirectory in tmp
