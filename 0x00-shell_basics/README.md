@@ -16,3 +16,4 @@ The copy html script copies all html files not in or not newer than the files in
 The letsmove script moves all files starting with capital letters to the /tmp/u directory
 The cleanemacs script deletes all files that end with a tilde in the current working director
 The tree script creates parent directories welcome/to/school
+The commas script lists the files and directories in the present working directory by seperating with commas. listing directories first and listing all hidden files
