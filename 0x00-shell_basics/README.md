@@ -6,3 +6,4 @@ The listmorefiles script displays all directory content including hidden files
 The listfilesdigitonly script displays all current directory contents with user and group ids displayed numerically
 The firstdirectory script creates a new directory in the tmp directory
 The movethatfile script moves betty file from tmp directory to my first directory directory
+The firstdelete script deletes the file betty in myfirst directory
