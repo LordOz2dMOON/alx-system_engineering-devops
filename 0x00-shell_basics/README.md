@@ -14,4 +14,5 @@ The filetype script shows the type of file for iamafile in the tmp directory
 The symboliclink script creates a link from the working directory to the /bin/ls directory named __ls__
 The copy html script copies all html files not in or not newer than the files in the parent of the working directory
 The letsmove script moves all files starting with capital letters to the /tmp/u directory
-The cleanemacs script deletes all files that end with a tilde in the current working directory
+The cleanemacs script deletes all files that end with a tilde in the current working director
+The tree script creates parent directories welcome/to/school
