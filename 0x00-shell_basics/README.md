@@ -13,3 +13,4 @@ The lists script list all files in the current, parent and boot directories
 The filetype script shows the type of file for iamafile in the tmp directory
 The symboliclink script creates a link from the working directory to the /bin/ls directory named __ls__
 The copy html script copies all html files not in or not newer than the files in the parent of the working directory
+The letsmove script moves all files starting with capital letters to the /tmp/u directory
