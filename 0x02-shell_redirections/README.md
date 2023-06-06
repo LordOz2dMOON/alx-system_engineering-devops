@@ -1,0 +1,1 @@
+This directory is for scripts that show input and output redirections.
